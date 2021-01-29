@@ -2,6 +2,12 @@
 - [Youtube Link.....](https://www.youtube.com/watch?v=b6CTeqJnmN0&t=4s)
 - [Medium Posts......](https://medium.com/@samuelbeebest)
 
+<p align = "center">
+  <a href="https://www.youtube.com/embed/b6CTeqJnmN01">
+  <img src = "https://i9.ytimg.com/vi/b6CTeqJnmN0/mq2.jpg?sqp=CNyMz4AG&rs=AOn4CLA0bi76pueyL1nqbrOUDnMi6GU5RA" height = "250" width = "400">
+  </a>
+</p>
+
 # flutter_notification
 
 A new Flutter project.
