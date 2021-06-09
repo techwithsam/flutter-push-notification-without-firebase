@@ -1,12 +1,13 @@
 # Youtube Tutorial
-- [Youtube Link.....](https://www.youtube.com/watch?v=b6CTeqJnmN0&t=4s)
-- [Medium Posts......](https://medium.com/@samuelbeebest)
+- [Video Tutorial: flutter-push-notification-without-firebase](https://www.youtube.com/watch?v=b6CTeqJnmN0&t=4s)
+- [Article: Medium Posts......](https://techwithsam.medium.com/)
+- [Ask questions: Join my discord server](https://discord.gg/95w942N6Ts)
 
-<p align = "center">
+<!-- <p align = "center">
   <a href="https://www.youtube.com/embed/b6CTeqJnmN01">
   <img src = "https://i9.ytimg.com/vi/b6CTeqJnmN0/mq2.jpg?sqp=CNyMz4AG&rs=AOn4CLA0bi76pueyL1nqbrOUDnMi6GU5RA" height = "250" width = "400">
   </a>
-</p>
+</p> -->
 
 # flutter_notification
 
